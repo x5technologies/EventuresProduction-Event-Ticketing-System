@@ -4,20 +4,26 @@
 
 **Status:** Live in Production at [eventuresproduction.pk](https://eventuresproduction.pk/)
 **Type:** Custom-built SaaS Platform (Closed Source)
-**Parent Company:** [X5 Technologies](https://x5technologies.site/)
+**Parent Company:** [X5 Technologies](https://x5technologies.site)
 **Origin:** Made in Pakistan 🇵🇰
 
 ---
 
 ## 🇵🇰 Proudly Made in Pakistan — Powered by X5 Technologies
 
-> **Eventures Production** is a child company of **[X5 Technologies](https://x5technologies.site/)** — a Pakistani tech company building production-grade software solutions entirely from the ground up in Pakistan.
+> **Eventures Production** is a child company of **[X5 Technologies](https://x5technologies.site)** — a Pakistani tech company building production-grade software solutions entirely from the ground up in Pakistan.
 
 This platform was **designed, developed, and deployed entirely in Pakistan** — from the architecture and codebase to the payment integrations and infrastructure. It is a testament to what Pakistani developers are building for Pakistani audiences and beyond.
 
 ---
 
-## 💳 PayFast — Pakistani Payment Gateway Integrated
+## 💳 Payment Options
+
+Eventures Production supports **two payment methods** — an automated online gateway and a manual bank transfer option — ensuring every customer can complete their purchase regardless of how they prefer to pay.
+
+---
+
+### Online Payment — PayFast (Pakistani Payment Gateway)
 
 Eventures Production is integrated with **PayFast by apps.net.pk**, a leading Pakistani payment gateway, enabling seamless and secure ticket purchases in PKR.
 
@@ -34,6 +40,26 @@ Eventures Production is integrated with **PayFast by apps.net.pk**, a leading Pa
 - Anti-fraud server-side hash verification
 - Sandbox (testing) and production mode support
 - Fully automated — no manual order approval needed after payment
+
+---
+
+### Manual Payment — Bank Transfer / EasyPaisa / JazzCash
+
+For customers who prefer to pay via bank transfer, EasyPaisa, or JazzCash, Eventures offers a **Manual Payment** option at checkout.
+
+**How it works:**
+1. Customer selects "Manual Payment" at checkout
+2. System displays the organizer's bank account / mobile wallet details
+3. Customer transfers the payment and submits their transaction reference
+4. Admin reviews and verifies the payment
+5. Once confirmed, the order is manually approved and tickets are generated and delivered via email
+
+**Key properties:**
+- Supports all major Pakistani bank transfers (HBL, UBL, Meezan, etc.)
+- Supports mobile wallets — EasyPaisa and JazzCash
+- Admin is notified of pending manual payments for quick review
+- Prevents ticket issuance until payment is verified — zero fraud risk
+- Ideal for customers without access to debit/credit cards
 
 ---
 
@@ -62,7 +88,8 @@ Unlike off-the-shelf solutions, Eventures was designed and coded from the ground
 - **Event Detail Pages** — Full event info: description, date, time, venue, capacity, ticket tiers, and cover images
 - **Ticket Booking Flow** — Select ticket quantity, enter attendee info, apply promo codes, and checkout
 - **PayFast Secure Checkout** — Integrated Pakistani payment gateway with SHA-256 verification
-- **Instant Ticket Delivery** — Digital tickets delivered immediately via email after payment
+- **Manual Payment Option** — Bank transfer, EasyPaisa, or JazzCash with admin verification workflow
+- **Instant Ticket Delivery** — Digital tickets delivered immediately via email after payment confirmation
 - **Ticket Search** — Find existing tickets by order ID or email address
 
 ### Attendee Experience
@@ -107,8 +134,9 @@ Unlike off-the-shelf solutions, Eventures was designed and coded from the ground
 - JSONB columns for flexible ticket/attendee data
 
 ### Payment Integration
-- **PayFast (apps.net.pk)** — Pakistani payment gateway
-- SHA-256 cryptographic hash verification for all payment callbacks
+- **PayFast (apps.net.pk)** — Pakistani payment gateway (online)
+- **Manual Payment** — Bank transfer, EasyPaisa, JazzCash with admin approval workflow
+- SHA-256 cryptographic hash verification for all PayFast callbacks
 - IPN (Instant Payment Notification) support
 - PKR currency support
 
@@ -186,7 +214,7 @@ Unlike off-the-shelf solutions, Eventures was designed and coded from the ground
 This is a **closed-source, commercial project** — a fully custom-built event ticketing and management platform developed entirely from scratch in Pakistan.
 
 **Developer:** Meekail Shaikh — CEO, X5 Technologies
-**Company:** [X5 Technologies](https://x5technologies.site/)
+**Company:** [X5 Technologies](https://x5technologies.site)
 **Child Platform:** [Eventures Production](https://eventuresproduction.pk)
 **Origin:** Built in Pakistan 🇵🇰
 **Payment Gateway:** PayFast by apps.net.pk (Pakistani)
