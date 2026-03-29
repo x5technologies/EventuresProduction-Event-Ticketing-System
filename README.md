@@ -4,14 +4,14 @@
 
 **Status:** Live in Production at [eventuresproduction.pk](https://eventuresproduction.pk/)
 **Type:** Custom-built SaaS Platform (Closed Source)
-**Parent Company:** [X5 Technologies](https://x5hosting.com)
+**Parent Company:** [X5 Technologies](https://x5technologies.site/)
 **Origin:** Made in Pakistan 🇵🇰
 
 ---
 
 ## 🇵🇰 Proudly Made in Pakistan — Powered by X5 Technologies
 
-> **Eventures Production** is a child company of **[X5 Technologies](https://x5hosting.com)** — a Pakistani tech company building production-grade software solutions entirely from the ground up in Pakistan.
+> **Eventures Production** is a child company of **[X5 Technologies](https://x5technologies.site/)** — a Pakistani tech company building production-grade software solutions entirely from the ground up in Pakistan.
 
 This platform was **designed, developed, and deployed entirely in Pakistan** — from the architecture and codebase to the payment integrations and infrastructure. It is a testament to what Pakistani developers are building for Pakistani audiences and beyond.
 
