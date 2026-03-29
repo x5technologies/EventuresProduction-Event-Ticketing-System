@@ -186,7 +186,7 @@ Unlike off-the-shelf solutions, Eventures was designed and coded from the ground
 This is a **closed-source, commercial project** — a fully custom-built event ticketing and management platform developed entirely from scratch in Pakistan.
 
 **Developer:** Meekail Shaikh — CEO, X5 Technologies
-**Company:** [X5 Technologies](https://x5hosting.com)
+**Company:** [X5 Technologies](https://x5technologies.site/)
 **Child Platform:** [Eventures Production](https://eventuresproduction.pk)
 **Origin:** Built in Pakistan 🇵🇰
 **Payment Gateway:** PayFast by apps.net.pk (Pakistani)
